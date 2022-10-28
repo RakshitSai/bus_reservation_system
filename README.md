@@ -1,6 +1,7 @@
 # bus_reservation_system
 
-B.Shreya-Front end (Team Lead)
-S.Tirupathi - Oracle Database
-K.Yashwanth - Oracle Database
-K.Rakshit Sai - JDBC, Oracle Database
+Rakshit Sai Kodam - DBC, Oracle Database (Team Lead)
+Shreya Baireddy - Front end
+Tirupathi Reddy - Oracle Database
+Yashwanth Koppishetty - Oracle Database
+
